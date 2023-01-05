@@ -65,6 +65,7 @@ Hardware MAC: 00:00:00:00:00:00
 IP Address  : 127.0.0.1
 Netmask     : 255.0.0.0
 
+
 AMD PCNET Family PCI Ethernet Adapter - Packet Scheduler Miniport
 Hardware MAC: 00:0c:29:10:f5:15
 IP Address  : 10.10.146.10
